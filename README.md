@@ -1,24 +1,8 @@
-# README
+#This is a clone of stack overflow made using Ruby on Rails and React.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+##Contributing
 
-* Ruby version
+To run the app, type ``bin/start rails s``
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Make sure you have started the Postgres server and React development server.
