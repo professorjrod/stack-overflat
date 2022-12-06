@@ -1,7 +1,7 @@
-#This is a clone of stack overflow made using Ruby on Rails and React.
+This is a clone of stack overflow made using Ruby on Rails and React.
 
 
-##Contributing
+Contributing
 
 To run the app, type ``bin/start rails s``
 
